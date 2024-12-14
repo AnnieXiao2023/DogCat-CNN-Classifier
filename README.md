@@ -41,3 +41,7 @@ python train_model.py
 python evaluate_model.py
 python predict.py --image_path ./single_prediction/your_image.jpg
 
+### Read More
+To learn more about this project, check out my detailed Medium post:  
+https://medium.com/@taixiongbaobao/building-a-image-classifier-using-cnn-in-tensorflow-da05a01820cf
+
